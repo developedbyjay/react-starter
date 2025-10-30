@@ -1,7 +1,7 @@
 import { Link, useLocation } from "react-router-dom";
 import { type ReactNode } from "react";
 import { useState } from "react";
-import { Button } from "../components/ui/button";
+import { Button } from "../ui/button";
 import { Activity, ChevronsLeft, User, Users } from "lucide-react";
 
 type DashboardLayoutProps = {
